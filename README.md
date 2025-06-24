@@ -1,5 +1,9 @@
 # InovIA – Interações Inteligentes com Assistentes Virtuais
 
+## 🌱 Impacto Sustentável e Eficiência Energética
+
+A adoção do sistema InovIA em assistentes virtuais pode reduzir o consumo energético global associado a interações de baixa complexidade. Automatizando ações com base em linguagem natural, diminuímos ciclos computacionais redundantes, o que contribui diretamente para a eficiência energética de data centers e sistemas em nuvem.
+
 InovIA é um sistema de automação de interações com assistentes virtuais baseado em **comandos linguísticos naturais**. O projeto identifica expressões-chave, como "obrigado" ou "olá", para iniciar ou encerrar conversas automaticamente, otimizando tempo, fluidez e uso de recursos.
 
 ## 🧠 Funcionalidades
