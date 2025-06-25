@@ -27,7 +27,15 @@ Sistemas de chatbot e assistentes atuais dependem de comandos explícitos ou de 
 
 ## 7. Arquitetura Funcional
 
-![image](https://github.com/user-attachments/assets/bbc1764c-205b-4742-98ce-3bbf63bfeaff)
+Entrada do Usuário
+       ↓
+Detecção Linguística
+       ↓
+Interpretação da Intenção
+       ↓
+Ação Correspondente (encerrar/iniciar)
+       ↓
+Feedback ao Usuário
 
 ## 8. Componentes do Sistema
 
@@ -46,8 +54,6 @@ Sistemas de chatbot e assistentes atuais dependem de comandos explícitos ou de 
 ## 10. Impacto Energético
 
 A aplicação do InovIA em sistemas de alta escala pode economizar milhares de ciclos computacionais por dia, o que se traduz em menor uso de energia por servidores e redução da pegada de carbono associada ao processamento redundante.
-
-> Estimativa: Em 10 milhões de sessões/dia, encerrar 20% delas automaticamente pode evitar até 27 horas de CPU/dia, com efeitos ambientais significativos.
 
 ## 11. Reivindicações (claims)
 
