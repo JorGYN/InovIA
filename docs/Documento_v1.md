@@ -1,4 +1,5 @@
-🧠 1. “Obrigado” nem sempre significa fim da conversa
+#Essa documentação informa informações diversas sobre ações  que podem ser processados em baixo custo, trazendo assim, inovação e moderniazação necessária para consumo energético devido a cargas de trabalho em datacenters pelo mundo que roda IA. 
+1. “Obrigado” nem sempre significa fim da conversa
 Problema: Expressões como “obrigado” são ambíguas — podem indicar encerramento, ou simplesmente marcar uma pausa, gratidão ou mudança de assunto. Encerrar a conversa automaticamente com base apenas na palavra pode gerar frustração.
 
 Soluções possíveis:
